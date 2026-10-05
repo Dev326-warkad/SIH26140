@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build output
+dist
+build
+*.log
+
+# Environment & IDE
+.env
+.env.local
+.vscode
+.idea
+.ds_store
+
+# Temp clone folders
+temp_sih
+temp_qurious
+temp_quil
+temp_qubuild
+temp_qmentor
